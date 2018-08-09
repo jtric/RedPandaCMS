@@ -1,8 +1,9 @@
 RedPandaCMS
 ==================================================================================================
 A simple Image Of The Day web software developed as a final project for CS4420 Database Systems I.
-Written in PHP.
 ==================================================================================================
+Written in PHP
+
 You are welcome to download this code and play around with it as part of learning PHP and MySQL and whatnot.
 However, you may NOT use this code as part of any public online projects (personal OR commercial) or academic projects
 (e.g., things that receive a grade and academic credit). You may NOT fork, rehost/redistribute, or otherwise include
@@ -12,7 +13,8 @@ This repository is an archive for posterity, not an active development. As it is
 newer versions of PHP and mysqli, it should not be considered viable as a foundation for any public-facing projects.
 
 Learning from others' code is recommended. Plagiarising others' code for academic grade points is not.
-==================================================================================================
+
+//
 
 INSTALL DEMO:
 
